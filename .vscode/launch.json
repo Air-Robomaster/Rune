@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+
+        {
+            "name": "C++ Launch (GDB)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/bin/main", // 可执行文件位置
+            "miDebuggerPath":"gdb",
+            "windows": {
+                "program": "${workspaceFolder}/build/bin/main.exe", // 可执行文件位置
+                "miDebuggerPath":"C:/mingw-w64/mingw64/bin/gdb.exe", // gdb 位置
+            },
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "preLaunchTask": "compile", // task.json 中的 label
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

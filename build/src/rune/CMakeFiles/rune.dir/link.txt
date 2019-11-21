@@ -1,0 +1,2 @@
+C:\mingw-w64\mingw64\bin\ar.exe qc ..\..\lib\librune.a  CMakeFiles/rune.dir/Rune.cpp.obj CMakeFiles/rune.dir/AngleSolver.cpp.obj
+C:\mingw-w64\mingw64\bin\ranlib.exe ..\..\lib\librune.a

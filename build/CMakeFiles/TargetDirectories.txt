@@ -1,0 +1,8 @@
+C:/Users/lenovo/Desktop/Rune-dev/build/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/CMakeFiles/rebuild_cache.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/rune/CMakeFiles/rebuild_cache.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/rune/CMakeFiles/rune.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/rune/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/common/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/common/CMakeFiles/main.dir
+C:/Users/lenovo/Desktop/Rune-dev/build/src/common/CMakeFiles/rebuild_cache.dir

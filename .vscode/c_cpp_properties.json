@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/OpenCV-3.4.6/include",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/**",
+                "C:/Program Files/OpenCV-3.4.6/include/opencv",
+                "C:/Program Files/OpenCV-3.4.6/include/opencv2"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/mingw-w64/mingw64/bin/gcc.exe",
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "/opt/opencv3/include",
+                "/opt/opencv3/include/opencv",
+                "/opt/opencv3/include/opencv2",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

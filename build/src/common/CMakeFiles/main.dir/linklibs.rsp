@@ -1,0 +1,1 @@
+C:/OpenCV-3.4.6/x64/mingw/lib/libopencv_img_hash346.dll.a C:/OpenCV-3.4.6/x64/mingw/lib/libopencv_world346.dll.a ../../lib/librune.a C:/OpenCV-3.4.6/x64/mingw/lib/libopencv_img_hash346.dll.a C:/OpenCV-3.4.6/x64/mingw/lib/libopencv_world346.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!--
+Parameter for Camera
+-->
+<intrinsic_file_480>C:/Users/25212/Documents/RM_BUFF/config/camera-RM3-06.xml</intrinsic_file_480>
+<intrinsic_file_720>C:/Users/25212/Documents/RM_BUFF/config/camera-RM3-06-640.xml</intrinsic_file_720>
+<!--
+Parameter for Vision System Mode, 0(default) means for armor detection mode, 1 means for rune system mode
+-->
+<mode>0</mode>
+<!--
+Bullet speed (m/s)
+-->
+<bullet_speed>22.</bullet_speed>
+<!--
+Scale factor of Z
+-->
+<scale_z>1.</scale_z>
+</opencv_storage>
